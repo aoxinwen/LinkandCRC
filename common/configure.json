@@ -1,0 +1,21 @@
+{
+  "E5Z": {
+    "platformName": "Android",
+    "platformVersion": "8.1.0",
+    "deviceName": "e80c140b",
+    "appPackage": "com.aliyun.iot.ilop.demo",
+    "appActivity": "com.aliyun.iot.ilop.demo.page.ilopmain.SplashActivity"
+  },
+  "E6Z": {
+    "platformName": "Android",
+    "platformVersion": "8.1.0",
+    "deviceName": "e80c140b",
+    "appPackage": "com.jd.smart",
+    "appActivity": "com.jd.smart.activity.LoadingActivity",
+    "automationName": "UIAutomator2",
+    "newCommandTimeout": "2000",
+    "unicodeKeyboard": "True",
+    "resetKeyboard": "True",
+    "noSign": "True"
+  }
+}
